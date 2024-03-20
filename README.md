@@ -1,1 +1,1 @@
-# Otp-verification-project
+# email-verification-project
